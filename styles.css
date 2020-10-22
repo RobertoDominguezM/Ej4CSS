@@ -1,0 +1,19 @@
+header, aside, main, footer {
+    border: 1px solid black;
+    margin: 3%;
+}
+#container{
+    border: 1px solid black;
+}
+/*header{
+    
+}
+main{
+    float: right;
+}
+aside{
+    float: left;
+}
+footer{
+    
+}*/
